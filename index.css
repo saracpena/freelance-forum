@@ -1,0 +1,20 @@
+body {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+}
+
+.freelancer-card {
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 12px;
+    margin-bottom: 10px;
+    background-color: white;
+}
+
+.freelancer-card h3 {
+    margin: 0;
+}
+
+.freelancer-card p {
+    margin: 4px 0;
+}
